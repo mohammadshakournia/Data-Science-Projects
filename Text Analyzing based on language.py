@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud 
 from nltk.stem import WordNetLemmatizer
 
-
 def listToString(s):    
     str1 = ""  
     for ele in s:  
